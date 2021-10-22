@@ -1,6 +1,6 @@
 # example
 
-A new Flutter project.
+spinning_square
 
 ## Getting Started
 
