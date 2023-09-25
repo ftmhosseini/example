@@ -1,6 +1,16 @@
 # example
 
-A new Flutter project.
+This Flutter project is a fun and interactive mobile application that displays a colorful circle on the screen when you touch any part of your phone's screen. The circle changes color every time you click, providing a visually engaging experience.
+
+## Features
+
+- Display a colorful circle on the screen where you clicking.
+- Change the circle's color every time you touch the screen.
+
+## Technologies Used
+
+- Dart
+- Flutter
 
 ## Getting Started
 
